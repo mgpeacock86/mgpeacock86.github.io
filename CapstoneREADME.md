@@ -20,7 +20,7 @@
 -	The conservation status of the fish
 
 ## Features
-- *“As a pescatarian, and an environmentalist, I want a place I can find locally sourced fish to prepare and their conservation status, because I want to help maintain healthy fish populations, but not give up eating seafood.”*
+- *“As a pescatarian, and an environmentalist, I want a place I can find locally sourced fish to prepare, and also their conservation status, because I want to help maintain healthy fish populations, but not give up eating seafood.”*
 
 **Tasks:**
 - Have an input for zip code
