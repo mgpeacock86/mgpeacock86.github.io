@@ -43,18 +43,18 @@
   
 ## Schedule
 **Week 1: Build app**
-- Find API’s to work with, including recipes where I can search by ingredient
--	Create Django app
--	Create user interface for username/password
--	Create fish zip code list
+- [ ] Find API’s to work with, including recipes where I can search by ingredient
+- [ ]	Create Django app
+- [ ]	Create user interface for username/password
+- [ ]	Create fish zip code list
 
 **Week 2: Design home page describing app with login and zip code**
--	Start working on UI portion of app
--	Build views for fish description and images
--	Create a “contact me” page with links to socials
+-	[ ] Start working on UI portion of app
+-	[ ] Build views for fish description and images
+-	[ ] Create a “contact me” page with links to socials
 
 **Week 3: Work on UX/UI interface/build recipe view**
--	Build the recipe view and interface
--	Work on aesthetic of site
--	Design a logo
-•	Build navigation tool 
+-	[ ] Build the recipe view and interface
+-	[ ] Work on aesthetic of site
+-	[ ] Design a logo
+-	[ ] Build navigation tool 
